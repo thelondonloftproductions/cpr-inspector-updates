@@ -1,12 +1,12 @@
 {
   "app": "CPR Inspector",
   "mac": {
-    "latest": "1.0.1",
+    "latest": "9.9.9",
     "released": "2026-11-06",
-    "headline": "CPR Inspector 1.0.1 is available",
+    "headline": "TEST: CPR Inspector 9.9.9 is available",
     "notes": [
-      "Reads Cubase 5, 6 and SX 3 projects",
-      "Channel Strip modules and the Pre section on every channel"
+      "This is a test notice",
+      "It will be removed in a few minutes"
     ],
     "download": "https://courses.domsigalas.com/login"
   }
