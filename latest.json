@@ -1,12 +1,14 @@
 {
   "app": "CPR Inspector",
   "mac": {
-    "latest": "1.0.1",
-    "released": "2026-11-06",
-    "headline": "CPR Inspector 1.0.1 is available",
+    "latest": "1.0.3",
+    "released": "2026-11-18",
+    "headline": "CPR Inspector 1.0.3 is available",
     "notes": [
-      "Reads Cubase 5, 6 and SX 3 projects",
-      "Channel Strip modules and the Pre section on every channel"
+      "Nuendo projects (.npr) are now supported",
+      "See hidden and disabled tracks, and inserts that are switched off",
+      "MIDI tracks and Cubase Modulators",
+      "Dust Collector remembers your last scan, plus various fixes"
     ],
     "download": "https://courses.domsigalas.com/login"
   }
