@@ -1,14 +1,13 @@
 {
   "app": "CPR Inspector",
   "mac": {
-    "latest": "1.0.3",
-    "released": "2026-11-18",
-    "headline": "CPR Inspector 1.0.3 is available",
+    "latest": "1.0.4",
+    "released": "2026-11-21",
+    "headline": "CPR Inspector 1.0.4 is available",
     "notes": [
-      "Nuendo projects (.npr) are now supported",
-      "See hidden and disabled tracks, and inserts that are switched off",
-      "MIDI tracks and Cubase Modulators",
-      "Dust Collector remembers your last scan, plus various fixes"
+      "Waves plugins now correctly show as installed, using Cubase's own plugin list",
+      "MixConvert V6 is no longer listed as a plugin",
+      "Includes everything from 1.0.3: Nuendo support, hidden and disabled tracks, MIDI tracks and Cubase Modulators"
     ],
     "download": "https://courses.domsigalas.com/login"
   }
